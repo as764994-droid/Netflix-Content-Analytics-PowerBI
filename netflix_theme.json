@@ -1,0 +1,26 @@
+{
+  "name": "Netflix Theme",
+  "dataColors": [
+    "#E50914",
+    "#FFFFFF",
+    "#B81D24",
+    "#F5F5F1",
+    "#831010",
+    "#FF6B6B",
+    "#C0C0C0",
+    "#333333"
+  ],
+  "background": "#141414",
+  "foreground": "#FFFFFF",
+  "tableAccent": "#E50914",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "fontFamily": [{ "value": "Trebuchet MS" }],
+        "fontSize": [{ "value": 11 }],
+        "fontColor": [{ "value": { "solid": { "color": "#FFFFFF" } } }],
+        "background": [{ "value": { "solid": { "color": "#141414" } } }]
+      }
+    }
+  }
+}
