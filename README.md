@@ -7,6 +7,13 @@
 
 ---
 
+> [!WARNING]
+> **Disclaimer:** This is a **simulated portfolio project** and is not affiliated with, endorsed by,
+> or connected to Netflix in any way. The stakeholder names, business problems, and organizational
+> context described in this project are **entirely fictional** and created purely for educational
+> and portfolio demonstration purposes. The dataset used is publicly available on Kaggle and does
+> not represent real Netflix internal data.
+
 ## 📌 Project Overview
 
 This project simulates a **real-world business intelligence engagement** with Netflix's Content Strategy, Regional Acquisitions, Data Science, and Finance teams. As a Data Analyst, I was approached by a panel of senior stakeholders — including a VP of Content Strategy, Head of Regional Acquisitions, Data Science Lead, and CFO — each with specific, business-critical questions that needed to be answered through data.
