@@ -156,19 +156,19 @@ Netflix-Content-Analytics-PowerBI/
 ## 🖼️ Dashboard Screenshots
 
 ### Page 1 — Executive Overview
-![Executive Overview](screenshots/page1_executive_overview.png)
+![Executive Overview](screenshots/page1_executive_overview.png.png)
 
 ### Page 2 — Genre Deep-Dive
-![Genre Deep-Dive](screenshots/page2_genre_deepdive.png)
+![Genre Deep-Dive](screenshots/page2_genre_deepdive.png.png)
 
 ### Page 3 — Regional Analysis
-![Regional Analysis](screenshots/page3_regional_analysis.png)
+![Regional Analysis](screenshots/page3_regional_analysis.png.png)
 
 ### Page 4 — Time & Freshness
-![Time & Freshness](screenshots/page4_time_freshness.png)
+![Time & Freshness](screenshots/page4_time_freshness.png.png)
 
 ### Page 5 — Flagged Content
-![Flagged Content](screenshots/page5_flagged_content.png)
+![Flagged Content](screenshots/page5_flagged_content.png.png)
 
 ---
 
